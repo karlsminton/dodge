@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "Raylib",
-        "repositoryURL": "https://github.com/apahl/raylib-swift",
+        "repositoryURL": "https://github.com/conifer-dev/raylib-swift",
         "state": {
           "branch": "master",
-          "revision": "6f7c7348db47b74ccd0a5ed6a4a085f442fc5f3f",
+          "revision": "4113664894d92a98b923ed7a5039d5995f5d01c6",
           "version": null
         }
       }

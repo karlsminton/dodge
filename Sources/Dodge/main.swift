@@ -1,5 +1,6 @@
 import CRaylib
-import Glibc
+//import Glibc
+import Darwin.C
 import Raylib
 
 struct WindowSize {
